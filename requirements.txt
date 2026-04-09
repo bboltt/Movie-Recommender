@@ -1,0 +1,7 @@
+elasticsearch>=8.13,<9
+jupyter>=1.0.0
+matplotlib>=3.8
+numpy>=1.26
+pandas>=2.2
+pyspark>=3.5
+pytest>=8.2
